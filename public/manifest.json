@@ -1,0 +1,11 @@
+
+{
+  "name": "My Extension",
+  "version": "1.0",
+  "description": "Description of my extension",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["storage"]
+}
